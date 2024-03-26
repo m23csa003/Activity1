@@ -40,3 +40,4 @@ plt.plot(x, y)
 plt.title('tanh Function')
 plt.show()
 
+# This is a bug-fix
