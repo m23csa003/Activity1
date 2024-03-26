@@ -48,3 +48,6 @@ for i in random_values:
     print(f'leaky_relu of {i} = {leaky_relu(i)}')
     print(f'tanh of {i} = {tanh(i)}')
     print('-----------------')
+
+# This is a bug-fix
+
